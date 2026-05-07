@@ -12,3 +12,6 @@
 5.	Clase String y sus métodos valueOf, charAt y length()
 6.	Clase Character y su método toLowerCase
 7.	Estructura de control condicional
+
+
+[linkedin](www.linkedin.com/in/ivan-alejandro-c-b7775110a)
